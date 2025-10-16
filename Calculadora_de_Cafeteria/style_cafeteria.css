@@ -9,6 +9,9 @@ body {
 h3 {
     color: rgb(255, 255, 255);
 }
+p {
+    font-weight: bold;
+}
 input {
     border-radius: 8px;
     border-color: brown;
@@ -22,4 +25,5 @@ button {
     padding: 5px;
     font-size: 15px;
     cursor: pointer;
+
 }
